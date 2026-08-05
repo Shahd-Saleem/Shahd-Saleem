@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Graduate (AUS) & Backend AI Engineering Intern | 100% Scholarship Recipient</h3>
 
 ## 📌 About Me
-- Computer Science graduate from American University of Sharjah.
+* Computer Science graduate from American University of Sharjah.
 * Recipient of the Sheikh Mohammad Bin Rashid Valedictorian Scholarship (100% coverage) and the AUS Chancellor’s Award (75%).
 * Dean’s List honoree specializing in backend engineering, applied AI, and computer vision.
 * Backend AI Engineer Intern at FlyRank AI and former Smart Systems Intern at Sharjah Government Media Bureau.
