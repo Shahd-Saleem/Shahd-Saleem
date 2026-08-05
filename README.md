@@ -1,18 +1,81 @@
-# 💫 About Me:
-I am a Computer Science graduate from AUS who's always been drawn to systems with a gap between what they do and what they could do. That curiosity has taken me from training ML models from scratch to building RAG pipelines and AI agents. Currently an AI Backend Engineering Intern at FlyRank AI, working toward roles where I can go deep on AI-powered systems.
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Shahd Saleem</h1>
+<h3 align="center">Computer Science Graduate (AUS) & Backend AI Engineering Intern | 100% Scholarship Recipient</h3>
+
+## 📌 About Me
+- Computer Science graduate from American University of Sharjah.
+* Recipient of the Sheikh Mohammad Bin Rashid Valedictorian Scholarship (100% coverage) and the AUS Chancellor’s Award (75%).
+* Dean’s List honoree specializing in backend engineering, applied AI, and computer vision.
+* Backend AI Engineer Intern at FlyRank AI and former Smart Systems Intern at Sharjah Government Media Bureau.
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahd-saleem) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahdsaleem.codes@gmail.com) 
+## 📊 GitHub Stats
+<p align="center">
+  <a href="https://github.com/Shahd-Saleem">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shahd-Saleem&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="Shahd-Saleem's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=Shahd-Saleem&theme=dark&hide_border=true&cache_seconds=86400" alt="Shahd-Saleem's GitHub Streak" width="49%" />
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Shahd-Saleem&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Shahd-Saleem&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shahd-Saleem&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## 🛠️ Languages & Tools
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
+
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />
+
+</p>
+
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />
+
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/Shahd-Saleem">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shahd-Saleem&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/shahd-saleem">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:shahdsaleem.codes@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>
+</p>
+
+## 💬 Quote
+> "The best way to predict the future is to invent it." — Alan Kay
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+</picture>
+
