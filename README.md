@@ -5,11 +5,17 @@
 </p>
 
 ## 📌 About Me
-* Computer Science graduate from American University of Sharjah.
-* Recipient of the Sheikh Mohammad Bin Rashid Valedictorian Scholarship (100% coverage) and the AUS Chancellor’s Award (75%).
-* Dean’s List honoree specializing in backend engineering, applied AI, and computer vision.
-* Backend AI Engineer Intern at FlyRank AI and former Smart Systems Intern at Sharjah Government Media Bureau.
+I am a Computer Science Graduate from the American University of Sharjah and an aspiring Backend & AI Engineer with a strong background in backend architecture, RAG pipelines, and computer vision systems.
 
+* 🎓 Academic Excellence: Earned 4 competitive academic honors and scholarships, including the AUS Chancellor’s Scholars Award (75% merit coverage) and the AUS Dean’s List.
+
+* 💼 Industry Internships: Engineered RAG pipelines and RESTful APIs at FlyRank AI, and developed automated smart systems while co-leading technical workshops at the Sharjah Government Media Bureau (SGMB).
+
+* 🏆 Capstone Leadership: Ranked as the highest-rated team member on my senior design project, leading a 3-engineer team to build an AI exam proctoring camera with 94%+ detection accuracy.
+
+* 🛠️ Featured Projects: Engineered a high-performance FastAPI Task Management CRUD API, a Vision-Based Automated Laundry Sorter, and a Java-based Smart Task Allocation System built with hybrid Agile/Waterfall SDLC and UML architecture.
+
+* 🎯 Career Goal: Launching my full-time career in Software & AI Engineering to build fast, type-safe APIs, optimize vector retrieval systems, and scale reliable backend infrastructure for enterprise AI solutions.
 
 ## 📊 GitHub Stats
 <p align="center">
