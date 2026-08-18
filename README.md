@@ -5,11 +5,11 @@
 </p>
 
 ## 📌 About Me
-I am a Computer Science Graduate from the American University of Sharjah and an aspiring Backend & AI Engineer with a strong background in backend architecture, RAG pipelines, and computer vision systems.
+I am a Computer Science Graduate from the American University of Sharjah and an aspiring Software & AI Engineer with a strong background in backend architecture, RAG pipelines, and computer vision systems.
 
 * 🎓 Academic Excellence: Earned 4 competitive academic honors and scholarships, including the AUS Chancellor’s Scholars Award (75% merit coverage) and the AUS Dean’s List.
 
-* 💼 Industry Internships: Engineered RAG pipelines and RESTful APIs at FlyRank AI, and developed automated smart systems while co-leading technical workshops at the Sharjah Government Media Bureau (SGMB).
+* 💼 Industry Internships: Engineered RAG pipelines and RESTful APIs at FlyRank AI and developed automated smart systems while co-leading technical workshops at the Sharjah Government Media Bureau (SGMB).
 
 * 🏆 Capstone Leadership: Ranked as the highest-rated team member on my senior design project, leading a 3-engineer team to build an AI exam proctoring camera with 94%+ detection accuracy.
 
