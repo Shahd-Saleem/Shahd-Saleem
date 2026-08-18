@@ -17,15 +17,6 @@ I am a Computer Science Graduate from the American University of Sharjah and an 
 
 * 🎯 Career Goal: Launching my full-time career in Software & AI Engineering to build fast, type-safe APIs, optimize vector retrieval systems, and scale reliable backend infrastructure for enterprise AI solutions.
 
-## 📊 GitHub Stats
-<p align="center">
-  <a href="https://github.com/Shahd-Saleem">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shahd-Saleem&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="Shahd-Saleem's GitHub Stats" />
-  </a>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahd-Saleem&theme=github-dark&hide_border=true&background=0D1117&fire=009688&currStreakLabel=009688" alt="Shahd's GitHub Streak" width="48%" />
-</p>
-
-
 ### 🛠️ Technical Stack & Tools
 
 **Languages & Frameworks**  
