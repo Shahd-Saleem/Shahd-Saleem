@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"> I'm Shahd Saleem</h1> 
+<h1 align="center">Hello! <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"> I'm Shahd Saleem</h1> 
 <h3 align="center">Computer Science Graduate (AUS) | 100% Scholarship Recipient</h3>
  <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=009688&center=true&vCenter=true&width=600&lines=Software+%26+AI+Engineer;Python+%7C+SQL+%7C+FastAPI+%7C+Computer+Vision;Building+Scalable+Software+%26+Intelligent+Systems" alt="Typing SVG" />
